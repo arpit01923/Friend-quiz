@@ -5,7 +5,6 @@
 - Input
 - Processing
 - Output
-- Link
 
 > **Description:**This app related to your friend.It basically test the bond between you and your friend. This app basically ask some question and for each correct question you scored +1 and for incorrect answer your score remain same, and at the end the final Score should be revealed.   
 
@@ -28,5 +27,3 @@
 
 > **Output:** For each correct answer user is informed with message `right` and whereas for each incorrect answer user is informed with message `wrong`.  At end of quiz user get to know points scored and atlast it shows who has Highscore.
 
-<br>
-> **Link:** [Friend quiz](https://replit.com/@ArpitKumar9/neog-camp#index.js)
